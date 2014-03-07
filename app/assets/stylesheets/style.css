@@ -13,11 +13,17 @@ body {
   padding: 0;
 }
 
-.offer {
+/*.offer {
   display: inline-block;
   border: 1px solid black;
   text-align: center;
   margin: 0;
   height: 200px;
   width: 33%;
+}*/
+
+.offer {
+  border: 1px solid black;
+  text-align: center;
+  height: 200px;
 }
