@@ -1,0 +1,23 @@
+body {
+  height: 1200px;
+}
+
+.banner {
+  background: url(banner.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 399px;
+  width: 100%;
+  padding: 0;
+}
+
+.offer {
+  display: inline-block;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0;
+  height: 200px;
+  width: 33%;
+}
