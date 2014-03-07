@@ -17,8 +17,8 @@ development:
   encoding: unicode
   database: rentah_development
   pool: 5
-  username: 0rkish
-  password:
+  username: postgres
+  password: password
   host: localhost
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -44,8 +44,8 @@ test:
   encoding: unicode
   database: rentah_test
   pool: 5
-  username: 0rkish
-  password:
+  username: postgres
+  password: password
   host: localhost
 
 production:
@@ -53,6 +53,6 @@ production:
   encoding: unicode
   database: rentah_production
   pool: 5
-  username: 0rkish
-  password:
+  username: postgres
+  password: password
   host: localhost
