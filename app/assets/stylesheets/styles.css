@@ -1,3 +1,12 @@
+.forgot {
+	text-align: right;
+}
+
+.forgot span {
+	margin-left: 10px;
+	font-size: 12px;
+}
+
 .logins {
 	float: right;
 	margin-right: 2rem;
@@ -27,5 +36,9 @@
 
 nav {
 	background-color: grey;
+}
+
+.devise-headers {
+	text-align: center;
 }
 
