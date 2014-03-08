@@ -17,7 +17,7 @@ development:
   encoding: unicode
   database: rentah_development
   pool: 5
-  username: postgres
+  username: 0rkish
   password: password
   host: localhost
 

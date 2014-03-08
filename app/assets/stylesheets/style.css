@@ -1,5 +1,5 @@
 body {
-  height: 1500px;
+  height: 2000px;
   position: relative;
 }
 
@@ -42,12 +42,13 @@ body {
   margin-top: 15px;
 }
 
-/*.bot-nav {
-  position: fixed;
+.bot-nav {
+  background-color: blue;
+  position: absolute;
   bottom: 0;
   height: 150px;
   width: 100%;
-}*/
+}
 
 
 
