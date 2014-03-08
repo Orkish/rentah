@@ -1,5 +1,5 @@
 body {
-  height: 2000px;
+  height: 1900px;
   position: relative;
 }
 
@@ -43,7 +43,7 @@ body {
 }
 
 .bot-nav {
-  background-color: blue;
+  background-color: lightgrey;
   position: absolute;
   bottom: 0;
   height: 150px;
